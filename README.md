@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @duvakin
-- 👀 I’m interested in climate justice, parkour, and eating copious
-      amounts of pomegranets. 
-- 🌱 I’m currently learning Environmental Engineering.
-- 💞️ I’m looking to collaborate on coding projects!!
+- 👀 I’m interested in  eating copious amounts of pomegranets. 
 - 📫 How to reach me saya.ameli@gmail.com
 
 <!---
