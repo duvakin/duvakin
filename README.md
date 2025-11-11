@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="left">
-    <p>🌱🌆 I am an Engineer specializing in energy systems at the intersection of data science, finance, & urban planning.</p>
+    <p>🌱🌆 I specialize in energy systems & commercial real estate at the intersection of data science, finance, & urban planning.</p>
 </div>
